@@ -1,0 +1,7 @@
+C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\bin\Release\renamer_cSharp.exe.config
+C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\bin\Release\renamer_cSharp.exe
+C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\bin\Release\renamer_cSharp.pdb
+C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\obj\Release\renamer_cSharp.csprojAssemblyReference.cache
+C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\obj\Release\renamer_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\obj\Release\renamer_cSharp.exe
+C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\obj\Release\renamer_cSharp.pdb
