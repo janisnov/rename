@@ -10,29 +10,30 @@ namespace renamer_cSharp
         
         static void Main(string[] args)
         {
-            start();
+
+            
+            try
+            {
+                if(args.Length == 0)
+                {
+                    start();
+                }
+            }
+            finally
+            {
+                by_hash(args[0], Convert.ToInt32(args[1]));
+            }
         }
         private static void start()
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("\ntype \"exit\" to exit or \"start\" to start or restart");
-            Console.ResetColor();
-            switch (Console.ReadLine())
-            {
-                case "exit":
-                    Environment.Exit(0);
-                    break;
 
-                case "start":
-                    int action;
+                    Byte action;
                     string path_to_files;// C:\\path\
                     Console.WriteLine("type path to file like \"C:\\\\path\\to\\file\\\"");
                     path_to_files = Console.ReadLine();
                     Console.WriteLine("type number of action \n1) rename by hash(md5) \n2) rename by hash and replace(md5)");
-                    action = Convert.ToInt32(Console.ReadLine());
+                    action = Convert.ToByte(Console.ReadLine());
                     by_hash(path_to_files, action);
-                    break;
-            }
         }
 
         private static void by_hash(string path_to_files, int action)

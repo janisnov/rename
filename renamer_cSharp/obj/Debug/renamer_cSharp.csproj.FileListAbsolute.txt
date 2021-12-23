@@ -5,3 +5,11 @@ C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\obj\Debug\renamer_cSha
 C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\obj\Debug\renamer_cSharp.csproj.CoreCompileInputs.cache
 C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\obj\Debug\renamer_cSharp.exe
 C:\Users\Janis\source\repos\renamer_cSharp\renamer_cSharp\obj\Debug\renamer_cSharp.pdb
+C:\Users\Janis\Documents\rename\renamer_cSharp\bin\Debug\renamer_cSharp.exe.config
+C:\Users\Janis\Documents\rename\renamer_cSharp\bin\Debug\renamer_cSharp.exe
+C:\Users\Janis\Documents\rename\renamer_cSharp\bin\Debug\renamer_cSharp.pdb
+C:\Users\Janis\Documents\rename\renamer_cSharp\obj\Debug\renamer_cSharp.csproj.AssemblyReference.cache
+C:\Users\Janis\Documents\rename\renamer_cSharp\obj\Debug\renamer_cSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Janis\Documents\rename\renamer_cSharp\obj\Debug\renamer_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Janis\Documents\rename\renamer_cSharp\obj\Debug\renamer_cSharp.exe
+C:\Users\Janis\Documents\rename\renamer_cSharp\obj\Debug\renamer_cSharp.pdb

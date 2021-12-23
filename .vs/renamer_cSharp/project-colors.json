@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1930435b-918e-433c-aa67-b1800c4cf415": {
+      "ProjectGuid": "1930435b-918e-433c-aa67-b1800c4cf415",
+      "DisplayName": "renamer_cSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
